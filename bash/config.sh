@@ -49,7 +49,7 @@ export LSCOLORS=ExFxCxDxBxegedabagacad
 export HISTCONTROL=ignoredups
 
 # command line behave like vim
-set -o vi
+#set -o vi
 
 # vim as EDITOR
 export EDITOR=vim
